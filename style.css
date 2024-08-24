@@ -1,0 +1,53 @@
+.heading{
+     size: 5px;
+}
+.ul button{
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    justify-content: space-between;
+    
+}
+.vector{
+    justify-content: space-between;
+}
+.btn{
+    background-color: greenyellow;
+}
+.heading{
+
+}
+.banner-contant{
+        text-align: center;
+        align-items: center;
+        
+}
+.img{
+    display: flex;
+    align-items: center;
+    justify-items: center;
+
+}
+.banner-description{
+    align-items: center;
+          display: flex;
+         justify-content: space-between;
+}
+.font{
+    font-size: 25px;
+}
+.center{
+    align-items: center;
+    justify-content: center;
+}
+.btn{
+    font-size: 12px;
+}
+.content-3{
+    align-items: center;
+    text-align: center;
+}
+.btn-praimary{
+    background-color:greenyellow;
+    text-align: bold;
+}
